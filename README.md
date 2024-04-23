@@ -3,7 +3,9 @@
 - Ishita Janwale 002743825
 - Shivani Rahatwad 002734520
 
-  
+# DATASET
+Kaggle : Fraud prediciton- https://www.kaggle.com/datasets/thegoanpanda/fastag-fraud-detection-datesets-fictitious/data
+
 <img width="706" alt="image" src="https://github.com/Ishita1022/DataAnalysis/assets/114513851/42673c16-249c-487d-ad31-3854195be199">
 
 

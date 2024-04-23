@@ -5,8 +5,9 @@
 
   
 <img width="706" alt="image" src="https://github.com/Ishita1022/DataAnalysis/assets/114513851/42673c16-249c-487d-ad31-3854195be199">
-# Tasks Performed
 
+
+# Tasks Performed
 - Data analysis, feature selection
 - Model Prediction
 - Best model fraud prediction
